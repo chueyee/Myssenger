@@ -2,7 +2,7 @@
 ## Messenger
 ## Kotlin & Firebase practice
 
-Simple practice messenger application written in Kotlin and connected to Firebase. It is a fully functioning application as it is now. Further updates will be updates to improve user experience and interactions.
+Simple practice messenger application written in Kotlin and connected to Firebase. It is a functioning application as it is now. Further updates will be updates to improve user experience and interactions.
 
 ### **Working:**
   - Shows latest messages on home screen
